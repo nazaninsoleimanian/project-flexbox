@@ -478,3 +478,35 @@ section {
 .img-banner {
     width: 100%;
 }
+.brand {
+    font-size: 140%;
+    font-weight: bold;
+    color: #ffffff;
+    
+}
+.brand + a { 
+    font-size:120%;
+    color: #ffffff;
+}
+.sale { 
+    width: 50%; 
+    background-color: #f1cf0d;
+    font-size: 120%;
+    align-self: flex-end;
+    text-align: center;
+}
+.sale i {
+    color: #ffffff;
+    margin-right: 1em;
+}
+/* REPEAT SECTION FORTH */
+.stock.sec-stock {
+    top: 5%;
+    right: 69%;    
+}
+.card-product.sec-card-product a {
+width: 80%;
+}
+.card-product.sec-card-product {
+    margin-top: 2em;
+}
